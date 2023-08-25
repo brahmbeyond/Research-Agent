@@ -5,6 +5,8 @@ This script is designed to automate the process of searching for relevant articl
 
 > see the 'shared_research_agent.ipynb' file , its Google Colab Notebook , you can chck it out directly .
 And Prepare Open AI and SERPER API key beforhand
+
+
 > You can also visit this BLOG for Detailed explanation - https://brahm.code.blog/2023/08/21/crafting-engaging-twitter-threads-with-langchain-and-gpt-3-5-turbo-a-step-by-step-guide/
 
 
