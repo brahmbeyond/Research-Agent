@@ -3,8 +3,7 @@
 
 This script is designed to automate the process of searching for relevant articles, extracting content, generating summaries, and creating Twitter threads based on a given query.
 
-
-see the 'shared_research_agent.ipynb' file , its Google Colab Notebook , you can chck it out directly .
+> see the 'shared_research_agent.ipynb' file , its Google Colab Notebook , you can chck it out directly .
 And Prepare Open AI and SERPER API key beforhand
 
 ## Table of Contents
